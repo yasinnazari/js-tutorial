@@ -43,3 +43,13 @@
 // IIFE Function :  // Immediately invoked function expression
 // توابعی هستن که خودشون خودشون رو فراخونی میکنند و کد های داخل خودشون رو اجرا میکنن
 // (function (){ console.log('HelloWorld') })()
+
+// -------------------------------------------------------------------------
+
+// BEST PRACTICE :
+// 1- comment faramoosh nashe 
+// 2- az method eval estefade nashe
+// hamishe baraye voroodi haye function ha value default dar nazar begirim
+// Choose the right name for the functions // name dorost 
+// hamishe baraye nam gozari data ha va function ha az ravesh camelCase nam gozari konid
+// function ha hamishe ye kar ro anjam bedan
