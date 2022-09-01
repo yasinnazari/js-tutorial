@@ -60,7 +60,7 @@
 //   'Hossein',
 // ]
 // users.forEach(function (user) {
-//   console.log(`user name : ${user}`)
+//   console.log(user name : ${user})
 // })
 
 // includes method param 2 => baraye inke begim az kodom index shoroo kon peyda kardan ro
@@ -136,4 +136,4 @@
 // })
 // console.log(showAge)
 
-// method some be true berese break mishe va every be false berese break mishe 
+// method some be true berese break mishe va every be false berese break mishe

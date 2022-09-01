@@ -3,8 +3,10 @@ html {
 }
 
 body {
-  background-color: #ffd05a;
-  color: #075154;
-  text-align: center;
   font-family: vazir;
+  text-align: center;
+}
+
+.title {
+  text-align: center;
 }

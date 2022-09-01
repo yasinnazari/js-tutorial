@@ -1,44 +1,16 @@
 let userOperation = +prompt('1 - Add product \n 2 - Delete product', 0)
 let userProductName = prompt('Enter product name')
 let products = [
-  {
-    id: 1,
-    name: 'laptop',
-    price: 20000000
-  },
-  {
-    id: 2,
-    name: 'mobile',
-    price: 10000000
-  },
-  {
-    id: 3,
-    name: 'tv',
-    price: 45000000
-  },
-  {
-    id: 4,
-    name: 'car',
-    price: 150000000
-  }
+  { id: 1, name: 'laptop', price: 20000000 },
+  { id: 2, name: 'mobile', price: 10000000 },
+  { id: 3, name: 'tv', price: 45000000 },
+  { id: 4, name: 'car', price: 150000000 }
 ]
 // ------
 let userBasket = [
-  {
-    id: 1,
-    name: 'keyboard',
-    price: 500000
-  },
-  {
-    id: 2,
-    name: 'chair',
-    price: 1000500
-  },
-  {
-    id: 3,
-    name: 'cube',
-    price: 50000
-  }
+  { id: 1, name: 'keyboard', price: 500000 },
+  { id: 2, name: 'chair', price: 1000500 },
+  { id: 3, name: 'cube', price: 50000 }
 ]
 
 let requestProduct
